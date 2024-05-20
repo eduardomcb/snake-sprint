@@ -6,7 +6,8 @@ A simple Snake game developed with Pygame.
 
 # Demo
 
-<video width="630" height="300" src="docs/demo.mp4" controls autoplay></video>
+https://github.com/eduardomcb/snake-sprint/assets/116934175/cdff352b-b0e8-4510-bcc1-dada9a58b5cb
+
 
 ## Project Structure
 

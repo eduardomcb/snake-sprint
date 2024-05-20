@@ -1,0 +1,21 @@
+# Cores
+WHITE = (255, 255, 255)
+BLACK = (0, 0, 0)
+GREEN = (0, 255, 0)
+RED = (255, 0, 0)
+BLUE = (0, 0, 255)
+
+# Configurações da tela
+WIDTH = 800
+HEIGHT = 600
+CELL_SIZE = 20
+FPS = 15
+GAME_TITLE = "Snake sprint game"
+
+# Configurações das partículas
+PARTICLE_LIFETIME_MIN = 20
+PARTICLE_LIFETIME_MAX = 40
+PARTICLE_RADIUS_MIN = 2
+PARTICLE_RADIUS_MAX = 4
+PARTICLE_SPEED_MIN = -4
+PARTICLE_SPEED_MAX = 4

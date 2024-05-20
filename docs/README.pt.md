@@ -4,6 +4,10 @@ For English documentation, please see the [English README](../README.md).
 
 Um jogo simples de Snake desenvolvido com Pygame.
 
+# Demo
+
+<video width="630" height="300" src="../docs/demo.mp4" controls autoplay></video>
+
 ## Estrutura do Projeto
 
 ```
@@ -31,23 +35,23 @@ snake-sprint/
 
 1. Clone o repositório:
 
-    ```bash
-    git clone https://github.com/eduardomcb/snake-sprint.git
-    cd snake-sprint
-    ```
+   ```bash
+   git clone https://github.com/eduardomcb/snake-sprint.git
+   cd snake-sprint
+   ```
 
 2. Crie e ative um ambiente virtual:
 
-    ```bash
-    python -m venv venv
-    source venv/bin/activate  # No Windows, use `venv\Scripts\activate`
-    ```
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # No Windows, use `venv\Scripts\activate`
+   ```
 
 3. Instale as dependências:
 
-    ```bash
-    pip install -r requirements.txt
-    ```
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 ## Empacotando o Jogo
 
